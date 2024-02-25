@@ -123,7 +123,7 @@ Doughnut chart was used for this analysis.
   ![ATTRITION  PER AGE GROUP](https://github.com/jaybee30/HR-ATTRITION-/assets/106179938/d8bbcaa3-86cf-4b4d-8673-95f8cedfc0f7)
   ![DASHBOARD IMAGE](https://github.com/jaybee30/HR-ATTRITION-/assets/106179938/83b2242d-9fcc-434b-a4cc-561cfad71f6d)
 
-
-
+Click the link below to engage with the interactive dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiNzdjMGFkNjAtYjIwOS00NzQ3LWI4ODgtMmYwY2Y5MDU1NTAwIiwidCI6IjMyZTBkNjM5LTczMmItNDZhMi05ODFhLTFhZTRkNDJlMDkwNiJ9
 
 
